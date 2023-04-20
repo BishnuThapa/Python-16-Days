@@ -1,5 +1,10 @@
-def hello():
-    print("Hey! Welcome to Python Programming")
+# def hello():
+#     print("Hey! Welcome to Python Programming")
+# hello()
 
 
-hello()
+def hello(name):
+    print("Hello " + name)
+
+
+hello("Bishnu")
