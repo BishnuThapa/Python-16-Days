@@ -7,5 +7,8 @@ coffee_prices = [('cappuccino', 1.5),
 # for element in coffee_prices:
 #     print(element)
 
+# for coffee, price in coffee_prices:
+#     print(coffee)
+
 for coffee, price in coffee_prices:
-    print(coffee)
+    print(price)
